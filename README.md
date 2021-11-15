@@ -1,7 +1,7 @@
 # Capstone Project PA2021
- 
-## ToDo ##
-+ read blog post about scope of capstone project
-+ research API
-+ check out selected APIs
-+ update Readme.md
+
+## Idea ##  
+Combining data flows to draw conclusions from Berlin VBB Stations / POIs and eMobility availability at these locations.
+Use measure of busyness at station and eMobility supply at these stations at set times of day and connect with weather / public holiday data to enable more insights
+
+## Details ##
