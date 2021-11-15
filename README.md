@@ -1,5 +1,5 @@
 # Capstone Project PA2021
-###### eMobility availability at VBB Point Of Interests
+| eMobility availability at VBB Point Of Interests |
 
 ## Idea ##
 
@@ -13,7 +13,7 @@ _Use measure of traffic at VBB POIs and eMobility supply at VBB POIs at set time
 
 ## Details
 
-### Progress 15.11.21
+### Progress - 15.11.21
 * setup capstone project virtual env
   * ```virtualenv capstone```
 * get VBB stations lat & lon
@@ -24,7 +24,7 @@ _Use measure of traffic at VBB POIs and eMobility supply at VBB POIs at set time
   * ```curl 'https://v5.vbb.transport.rest/journeys?from=900000058101&to=900000110005&departure=tomorrow+2pm&results=2' -s | jq```
   * get occupancy info from data stream as a measure of traffic / interest at the station
 
-## FUNCTIONALITY
+## Functionality
 ##### acquire data from DB, API, queue/tracker, scraper
 * Connectors
   * TIER API, access requested
