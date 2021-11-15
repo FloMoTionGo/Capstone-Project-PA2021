@@ -1,5 +1,5 @@
 # Capstone Project PA2021
-> eMobility availability at VBB Point Of Interests 
+> eMobility availability at VBB Points Of Interests 
 
 ## Idea ##
 
