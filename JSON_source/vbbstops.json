@@ -1,0 +1,170 @@
+[
+	{
+		"type": "stop",
+		"id": "900000160532",
+		"name": "Sophienstr.",
+		"location": {
+			"type": "location",
+			"id": "900160532",
+			"latitude": 52.506496,
+			"longitude": 13.496126
+		},
+		"products": {
+			"suburban": false,
+			"subway": false,
+			"tram": false,
+			"bus": true,
+			"ferry": false,
+			"express": false,
+			"regional": false
+		},
+		"distance": 85
+	},
+	{
+		"type": "stop",
+		"id": "900000160743",
+		"name": "Margaretenstr. [Ri. Lichtenberger Br.]",
+		"location": {
+			"type": "location",
+			"id": "900160743",
+			"latitude": 52.507611,
+			"longitude": 13.496881
+		},
+		"products": {
+			"suburban": true,
+			"subway": true,
+			"tram": true,
+			"bus": true,
+			"ferry": false,
+			"express": true,
+			"regional": true
+		},
+		"distance": 164
+	},
+	{
+		"type": "stop",
+		"id": "900000160733",
+		"name": "Münsterlandplatz [Ri.S+U Lichtenberg]",
+		"location": {
+			"type": "location",
+			"id": "900160733",
+			"latitude": 52.504869,
+			"longitude": 13.495299
+		},
+		"products": {
+			"suburban": false,
+			"subway": false,
+			"tram": false,
+			"bus": true,
+			"ferry": false,
+			"express": false,
+			"regional": false
+		},
+		"distance": 208
+	},
+	{
+		"type": "stop",
+		"id": "900000160742",
+		"name": "Margaretenstr. [Ri. Lückstr.]",
+		"location": {
+			"type": "location",
+			"id": "900160742",
+			"latitude": 52.508195,
+			"longitude": 13.497123
+		},
+		"products": {
+			"suburban": true,
+			"subway": true,
+			"tram": true,
+			"bus": true,
+			"ferry": false,
+			"express": true,
+			"regional": true
+		},
+		"distance": 220
+	},
+	{
+		"type": "stop",
+		"id": "900000160734",
+		"name": "Münsterlandplatz [Ri. Lückstr.]",
+		"location": {
+			"type": "location",
+			"id": "900160734",
+			"latitude": 52.503566,
+			"longitude": 13.494418
+		},
+		"products": {
+			"suburban": false,
+			"subway": false,
+			"tram": false,
+			"bus": true,
+			"ferry": false,
+			"express": false,
+			"regional": false
+		},
+		"distance": 353
+	},
+	{
+		"type": "stop",
+		"id": "900000160517",
+		"name": "Irenenstr.",
+		"location": {
+			"type": "location",
+			"id": "900160517",
+			"latitude": 52.509391,
+			"longitude": 13.499524
+		},
+		"products": {
+			"suburban": false,
+			"subway": false,
+			"tram": false,
+			"bus": true,
+			"ferry": false,
+			"express": false,
+			"regional": false
+		},
+		"distance": 429
+	},
+	{
+		"type": "stop",
+		"id": "900000160004",
+		"name": "S+U Lichtenberg",
+		"location": {
+			"type": "location",
+			"id": "900160004",
+			"latitude": 52.510676,
+			"longitude": 13.498355
+		},
+		"products": {
+			"suburban": true,
+			"subway": true,
+			"tram": true,
+			"bus": true,
+			"ferry": false,
+			"express": true,
+			"regional": true
+		},
+		"distance": 496
+	},
+	{
+		"type": "stop",
+		"id": "900000160702",
+		"name": "S+U Lichtenberg [Bus]",
+		"location": {
+			"type": "location",
+			"id": "900160702",
+			"latitude": 52.510389,
+			"longitude": 13.49947
+		},
+		"products": {
+			"suburban": true,
+			"subway": true,
+			"tram": true,
+			"bus": true,
+			"ferry": false,
+			"express": true,
+			"regional": true
+		},
+		"distance": 510
+	}
+]
