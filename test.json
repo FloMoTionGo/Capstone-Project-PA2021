@@ -1,0 +1,1795 @@
+[
+	{
+		"tripId": "1|24703|28|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:46:00+01:00",
+		"plannedWhen": "2021-12-05T14:48:00+01:00",
+		"delay": -120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "Busseallee",
+		"line": {
+			"type": "line",
+			"id": "m48",
+			"fahrtNr": "48358",
+			"name": "M48",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "M",
+			"nr": 48,
+			"metro": true,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Schlossparktheater (Berlin) - S+U Rathaus Steglitz (Berlin) [Schloßstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.460759,
+			"longitude": 13.324567
+		}
+	},
+	{
+		"tripId": "1|26069|25|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:46:00+01:00",
+		"plannedWhen": "2021-12-05T14:48:00+01:00",
+		"delay": -120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S+U Berlin Hauptbahnhof",
+		"line": {
+			"type": "line",
+			"id": "m85",
+			"fahrtNr": "50980",
+			"name": "M85",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "M",
+			"nr": 85,
+			"metro": true,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Kieler Str. (Berlin) - S+U Rathaus Steglitz (Berlin) [Schloßstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.450421,
+			"longitude": 13.315389
+		}
+	},
+	{
+		"tripId": "1|64926|23|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062784",
+			"name": "S+U Rathaus Steglitz [Albrechtstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062784",
+				"latitude": 52.456678,
+				"longitude": 13.321681
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:46:00+01:00",
+		"plannedWhen": "2021-12-05T14:48:00+01:00",
+		"delay": -120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "Königin-Luise-Str./Clayallee",
+		"line": {
+			"type": "line",
+			"id": "x83",
+			"fahrtNr": "56781",
+			"name": "X83",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "X",
+			"nr": 83,
+			"metro": false,
+			"express": true,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Grunewaldstr./Lepsiusstr. (Berlin) - S+U Rathaus Steglitz (Berlin) [Albrechtstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.453343,
+			"longitude": 13.330589
+		}
+	},
+	{
+		"tripId": "1|64928|19|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062784",
+			"name": "S+U Rathaus Steglitz [Albrechtstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062784",
+				"latitude": 52.456678,
+				"longitude": 13.321681
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:48:00+01:00",
+		"plannedWhen": "2021-12-05T14:46:00+01:00",
+		"delay": 120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "Nahariyastr.",
+		"line": {
+			"type": "line",
+			"id": "x83",
+			"fahrtNr": "56860",
+			"name": "X83",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "X",
+			"nr": 83,
+			"metro": false,
+			"express": true,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Steglitzer Damm/Bismarckstr. (Berlin) - S+U Rathaus Steglitz (Berlin) [Albrechtstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.45657,
+			"longitude": 13.322616
+		}
+	},
+	{
+		"tripId": "1|14126|9|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:48:00+01:00",
+		"plannedWhen": "2021-12-05T14:48:00+01:00",
+		"delay": 0,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S+U Rathaus Steglitz [Busbahnhof]",
+		"line": {
+			"type": "line",
+			"id": "186",
+			"fahrtNr": "28855",
+			"name": "186",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": null,
+			"nr": 186,
+			"metro": false,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.4563,
+			"longitude": 13.319964
+		}
+	},
+	{
+		"tripId": "1|18573|14|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:48:00+01:00",
+		"plannedWhen": "2021-12-05T14:48:00+01:00",
+		"delay": null,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S Marienfelde",
+		"line": {
+			"type": "line",
+			"id": "283",
+			"fahrtNr": "37850",
+			"name": "283",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": null,
+			"nr": 283,
+			"metro": false,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Schlossparktheater (Berlin) - S+U Rathaus Steglitz (Berlin) [Schloßstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.455869,
+			"longitude": 13.319865
+		}
+	},
+	{
+		"tripId": "1|14205|10|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:49:00+01:00",
+		"plannedWhen": "2021-12-05T14:47:00+01:00",
+		"delay": 120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S Lichterfelde Süd [Bus Réaumurstr.]",
+		"line": {
+			"type": "line",
+			"id": "186",
+			"fahrtNr": "28994",
+			"name": "186",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": null,
+			"nr": 186,
+			"metro": false,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Carmerplatz (Berlin) - S+U Rathaus Steglitz (Berlin) [Schloßstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.453505,
+			"longitude": 13.319443
+		}
+	},
+	{
+		"tripId": "1|14717|13|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062282",
+			"name": "S+U Rathaus Steglitz [Busbahnhof]",
+			"location": {
+				"type": "location",
+				"id": "900062282",
+				"latitude": 52.455887,
+				"longitude": 13.320854
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:49:00+01:00",
+		"plannedWhen": "2021-12-05T14:47:00+01:00",
+		"delay": 120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "Appenzeller Str.",
+		"line": {
+			"type": "line",
+			"id": "188",
+			"fahrtNr": "29825",
+			"name": "188",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": null,
+			"nr": 188,
+			"metro": false,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (S+U Rathaus Steglitz (Berlin) [Schloßstr.] - S+U Rathaus Steglitz (Berlin) [Busbahnhof])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "15693",
+				"type": "warning",
+				"summary": "Umleitung",
+				"text": "Umleitung: Die Linie wird in beiden Richtungen zwischen S+U Rathaus Steglitz &lt; > Drakestraße/Gardeschützenweg über Schloßstraße, Unter den Eichen und Drakestraße umgeleitet.[br][br]Die Haltestellen Schlossparktheater, Händelplatz, Lipaer Straße, S Botanischer Garten und Tietzenweg werden aufgehoben. Die Ersatzhaltestellen befinden sich entlang der Umleitungsstrecke an den Haltestellen der Linie M48 und zusätzlich an der Haltestelle S Lichterfelde West (Linie M11).[br][br]Bitte beachten Sie das die Haltestelle Unter den Eichen/Botanischer Garten (M48) Richtung S+U Rathaus Steglitz ist um ca. 60 Meter vor ihrem planmäßigen Standort verlegt ist.[br] (Drakestr./Gardeschützenweg (Berlin) - S+U Rathaus Steglitz (Berlin) [Busbahnhof])",
+				"icon": {
+					"type": "HIM1",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": false,
+					"subway": false,
+					"tram": false,
+					"bus": true,
+					"ferry": false,
+					"express": false,
+					"regional": false
+				},
+				"categories": [
+					1
+				],
+				"validFrom": "2020-05-12T08:00:00+02:00",
+				"validUntil": "2049-12-31T23:59:59+01:00",
+				"modified": "2021-05-31T08:02:11+02:00"
+			},
+			{
+				"id": "15694",
+				"type": "warning",
+				"summary": "Umleitung",
+				"text": "Umleitung: Die Linie wird in beiden Richtungen zwischen S+U Rathaus Steglitz &lt; > Drakestraße/Gardeschützenweg über Schloßstraße, Unter den Eichen und Drakestraße umgeleitet.[br][br]Die Haltestellen Schlossparktheater, Händelplatz, Lipaer Straße, S Botanischer Garten und Tietzenweg werden aufgehoben. Die Ersatzhaltestellen befinden sich entlang der Umleitungsstrecke an den Haltestellen der Linie M48 und zusätzlich an der Haltestelle S Lichterfelde West (Linie M11).[br][br]Bitte beachten Sie das die Haltestelle Unter den Eichen/Botanischer Garten (M48) Richtung S+U Rathaus Steglitz ist um ca. 60 Meter vor ihrem planmäßigen Standort verlegt ist.[br] (Drakestr./Gardeschützenweg (Berlin) - S+U Rathaus Steglitz (Berlin) [Busbahnhof])",
+				"icon": {
+					"type": "HIM1",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": false,
+					"subway": false,
+					"tram": false,
+					"bus": true,
+					"ferry": false,
+					"express": false,
+					"regional": false
+				},
+				"categories": [
+					1
+				],
+				"validFrom": "2020-05-12T08:00:00+02:00",
+				"validUntil": "2049-12-31T23:59:59+01:00",
+				"modified": "2021-05-31T08:03:11+02:00"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.456489,
+			"longitude": 13.322175
+		}
+	},
+	{
+		"tripId": "1|25845|15|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062282",
+			"name": "S+U Rathaus Steglitz [Busbahnhof]",
+			"location": {
+				"type": "location",
+				"id": "900062282",
+				"latitude": 52.455887,
+				"longitude": 13.320854
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:49:00+01:00",
+		"plannedWhen": "2021-12-05T14:52:00+01:00",
+		"delay": -180,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "Waldsassener Str.",
+		"line": {
+			"type": "line",
+			"id": "m82",
+			"fahrtNr": "50508",
+			"name": "M82",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "M",
+			"nr": 82,
+			"metro": true,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Heesestr. (Berlin) - S+U Rathaus Steglitz (Berlin) [Busbahnhof])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.455914,
+			"longitude": 13.324513
+		}
+	},
+	{
+		"tripId": "1|35109|2|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062781",
+			"name": "S+U Rathaus Steglitz [U9]",
+			"location": {
+				"type": "location",
+				"id": "900062781",
+				"latitude": 52.456435,
+				"longitude": 13.319982
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:50:00+01:00",
+		"plannedWhen": "2021-12-05T14:49:00+01:00",
+		"delay": 60,
+		"platform": "1",
+		"plannedPlatform": "1",
+		"direction": null,
+		"provenance": "U Osloer Str.",
+		"line": {
+			"type": "line",
+			"id": "u9",
+			"fahrtNr": "24307",
+			"name": "U9",
+			"public": true,
+			"adminCode": "BVU",
+			"productName": "U",
+			"mode": "train",
+			"product": "subway",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "U",
+			"nr": 9,
+			"metro": false,
+			"express": false,
+			"night": false,
+			"color": {
+				"fg": "#fff",
+				"bg": "#ff7300"
+			}
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (U Schloßstr. (Berlin) - S+U Rathaus Steglitz (Berlin) [U9])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"type": "hint",
+				"code": "FB",
+				"text": "Bicycle conveyance"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.464858,
+			"longitude": 13.328072
+		}
+	},
+	{
+		"tripId": "1|14205|10|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062784",
+			"name": "S+U Rathaus Steglitz [Albrechtstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062784",
+				"latitude": 52.456678,
+				"longitude": 13.321681
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:51:00+01:00",
+		"plannedWhen": "2021-12-05T14:49:00+01:00",
+		"delay": 120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S Lichterfelde Süd [Bus Réaumurstr.]",
+		"line": {
+			"type": "line",
+			"id": "186",
+			"fahrtNr": "28994",
+			"name": "186",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": null,
+			"nr": 186,
+			"metro": false,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (S+U Rathaus Steglitz (Berlin) [Schloßstr.] - S+U Rathaus Steglitz (Berlin) [Albrechtstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.453505,
+			"longitude": 13.319443
+		}
+	},
+	{
+		"tripId": "1|18555|14|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:51:00+01:00",
+		"plannedWhen": "2021-12-05T14:51:00+01:00",
+		"delay": 0,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S+U Rathaus Steglitz [Busbahnhof]",
+		"line": {
+			"type": "line",
+			"id": "283",
+			"fahrtNr": "37826",
+			"name": "283",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": null,
+			"nr": 283,
+			"metro": false,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		]
+	},
+	{
+		"tripId": "1|35888|20|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062202",
+			"name": "S+U Rathaus Steglitz",
+			"location": {
+				"type": "location",
+				"id": "900062202",
+				"latitude": 52.455725,
+				"longitude": 13.322778
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:51:00+01:00",
+		"plannedWhen": "2021-12-05T14:51:00+01:00",
+		"delay": 0,
+		"platform": "2",
+		"plannedPlatform": "2",
+		"direction": null,
+		"provenance": "S Wannsee",
+		"line": {
+			"type": "line",
+			"id": "s1",
+			"fahrtNr": "25285",
+			"name": "S1",
+			"public": true,
+			"adminCode": "DBS",
+			"productName": "S",
+			"mode": "train",
+			"product": "suburban",
+			"operator": {
+				"type": "operator",
+				"id": "s-bahn-berlin-gmbh",
+				"name": "S-Bahn Berlin GmbH"
+			},
+			"symbol": "S",
+			"nr": 1,
+			"metro": false,
+			"express": false,
+			"night": false,
+			"color": {
+				"fg": "#fff",
+				"bg": "#da6ba3"
+			}
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "DBS (S Botanischer Garten (Berlin) - S+U Rathaus Steglitz (Berlin))"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"type": "hint",
+				"code": "FB",
+				"text": "Bicycle conveyance"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.444587,
+			"longitude": 13.297455
+		}
+	},
+	{
+		"tripId": "1|24761|20|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:51:00+01:00",
+		"plannedWhen": "2021-12-05T14:53:00+01:00",
+		"delay": -120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "U Mohrenstr.",
+		"line": {
+			"type": "line",
+			"id": "m48",
+			"fahrtNr": "48416",
+			"name": "M48",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "M",
+			"nr": 48,
+			"metro": true,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Kieler Str. (Berlin) - S+U Rathaus Steglitz (Berlin) [Schloßstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.461397,
+			"longitude": 13.324908
+		}
+	},
+	{
+		"tripId": "1|25994|27|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062782",
+			"name": "S+U Rathaus Steglitz [Schloßstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062782",
+				"latitude": 52.456759,
+				"longitude": 13.320584
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:54:00+01:00",
+		"plannedWhen": "2021-12-05T14:53:00+01:00",
+		"delay": 60,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "S Lichterfelde Süd [Bus Fürstenstr.]",
+		"line": {
+			"type": "line",
+			"id": "m85",
+			"fahrtNr": "50904",
+			"name": "M85",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "M",
+			"nr": 85,
+			"metro": true,
+			"express": false,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Händelplatz (Berlin) - S+U Rathaus Steglitz (Berlin) [Schloßstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.445774,
+			"longitude": 13.315541
+		}
+	},
+	{
+		"tripId": "1|35109|3|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062781",
+			"name": "S+U Rathaus Steglitz [U9]",
+			"location": {
+				"type": "location",
+				"id": "900062781",
+				"latitude": 52.456435,
+				"longitude": 13.319982
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:54:00+01:00",
+		"plannedWhen": "2021-12-05T14:54:00+01:00",
+		"delay": 0,
+		"platform": "1",
+		"plannedPlatform": "1",
+		"direction": null,
+		"provenance": "U Osloer Str.",
+		"line": {
+			"type": "line",
+			"id": "u9",
+			"fahrtNr": "24308",
+			"name": "U9",
+			"public": true,
+			"adminCode": "BVU",
+			"productName": "U",
+			"mode": "train",
+			"product": "subway",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "U",
+			"nr": 9,
+			"metro": false,
+			"express": false,
+			"night": false,
+			"color": {
+				"fg": "#fff",
+				"bg": "#ff7300"
+			}
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (U Schloßstr. (Berlin) - S+U Rathaus Steglitz (Berlin) [U9])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"type": "hint",
+				"code": "FB",
+				"text": "Bicycle conveyance"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.487268,
+			"longitude": 13.330823
+		}
+	},
+	{
+		"tripId": "1|35921|19|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062202",
+			"name": "S+U Rathaus Steglitz",
+			"location": {
+				"type": "location",
+				"id": "900062202",
+				"latitude": 52.455725,
+				"longitude": 13.322778
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:54:00+01:00",
+		"plannedWhen": "2021-12-05T14:54:00+01:00",
+		"delay": 0,
+		"platform": "1",
+		"plannedPlatform": "1",
+		"direction": null,
+		"provenance": "S Oranienburg",
+		"line": {
+			"type": "line",
+			"id": "s1",
+			"fahrtNr": "25202",
+			"name": "S1",
+			"public": true,
+			"adminCode": "DBS",
+			"productName": "S",
+			"mode": "train",
+			"product": "suburban",
+			"operator": {
+				"type": "operator",
+				"id": "s-bahn-berlin-gmbh",
+				"name": "S-Bahn Berlin GmbH"
+			},
+			"symbol": "S",
+			"nr": 1,
+			"metro": false,
+			"express": false,
+			"night": false,
+			"color": {
+				"fg": "#fff",
+				"bg": "#da6ba3"
+			}
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "DBS (S Feuerbachstr. (Berlin) - S+U Rathaus Steglitz (Berlin))"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"type": "hint",
+				"code": "FB",
+				"text": "Bicycle conveyance"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.480059,
+			"longitude": 13.352856
+		}
+	},
+	{
+		"tripId": "1|64928|20|86|5122021",
+		"stop": {
+			"type": "stop",
+			"id": "900000062784",
+			"name": "S+U Rathaus Steglitz [Albrechtstr.]",
+			"location": {
+				"type": "location",
+				"id": "900062784",
+				"latitude": 52.456678,
+				"longitude": 13.321681
+			},
+			"products": {
+				"suburban": true,
+				"subway": true,
+				"tram": false,
+				"bus": true,
+				"ferry": false,
+				"express": false,
+				"regional": false
+			}
+		},
+		"when": "2021-12-05T14:54:00+01:00",
+		"plannedWhen": "2021-12-05T14:56:00+01:00",
+		"delay": -120,
+		"platform": null,
+		"plannedPlatform": null,
+		"direction": null,
+		"provenance": "Nahariyastr.",
+		"line": {
+			"type": "line",
+			"id": "x83",
+			"fahrtNr": "56860",
+			"name": "X83",
+			"public": true,
+			"adminCode": "BVB",
+			"productName": "Bus",
+			"mode": "bus",
+			"product": "bus",
+			"operator": {
+				"type": "operator",
+				"id": "berliner-verkehrsbetriebe",
+				"name": "Berliner Verkehrsbetriebe"
+			},
+			"symbol": "X",
+			"nr": 83,
+			"metro": false,
+			"express": true,
+			"night": false
+		},
+		"remarks": [
+			{
+				"type": "hint",
+				"code": "OPERATOR",
+				"text": "BVG (Steglitzer Damm/Bismarckstr. (Berlin) - S+U Rathaus Steglitz (Berlin) [Albrechtstr.])"
+			},
+			{
+				"type": "hint",
+				"code": "bf",
+				"text": "barrier-free"
+			},
+			{
+				"id": "144719",
+				"type": "warning",
+				"summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+				"text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+				"icon": {
+					"type": "HIM0",
+					"title": null
+				},
+				"priority": 100,
+				"products": {
+					"suburban": true,
+					"subway": true,
+					"tram": true,
+					"bus": true,
+					"ferry": true,
+					"express": true,
+					"regional": true
+				},
+				"company": "VBB",
+				"categories": [
+					0
+				],
+				"validFrom": "2021-11-24T00:00:00+01:00",
+				"validUntil": "2022-12-31T00:00:00+01:00",
+				"modified": "2021-11-23T18:31:10+01:00"
+			}
+		],
+		"currentTripPosition": {
+			"type": "location",
+			"latitude": 52.443931,
+			"longitude": 13.340244
+		}
+	}
+]
