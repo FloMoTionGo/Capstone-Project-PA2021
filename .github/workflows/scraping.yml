@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         # curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
-        curl https://v5.vbb.transport.rest/stops/900160004/arrivals?duration=10&linesOfStops=false&remarks=true&language=en -H 'accept: application/json' | jq . > incidents.json
+        curl -X 'GET' 'https://v5.vbb.transport.rest/stops/900160004/arrivals?duration=10&linesOfStops=false&remarks=true&language=en' -H 'accept: application/json' | jq . > incidents.json
 
     - name: Commit and push if it changed
       run: |-
