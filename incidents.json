@@ -1,15 +1,15 @@
 [
   {
-    "tripId": "1|26791|0|86|9122021",
+    "tripId": "1|37153|0|86|9122021",
     "stop": {
       "type": "stop",
-      "id": "900000160704",
-      "name": "S+U Lichtenberg [N50]",
+      "id": "900000160004",
+      "name": "S+U Lichtenberg",
       "location": {
         "type": "location",
-        "id": "900160704",
-        "latitude": 52.510496,
-        "longitude": 13.501061
+        "id": "900160004",
+        "latitude": 52.510676,
+        "longitude": 13.498355
       },
       "products": {
         "suburban": true,
@@ -21,44 +21,53 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T03:24:00+01:00",
-    "plannedWhen": "2021-12-09T03:24:00+01:00",
+    "when": "2021-12-09T04:00:00+01:00",
+    "plannedWhen": "2021-12-09T04:00:00+01:00",
     "delay": 0,
-    "platform": null,
-    "plannedPlatform": null,
+    "platform": "1",
+    "plannedPlatform": "1",
     "direction": null,
-    "provenance": "U Tierpark",
+    "provenance": "S Ostbahnhof",
     "line": {
       "type": "line",
-      "id": "n50",
-      "fahrtNr": "52398",
-      "name": "N50",
+      "id": "s5",
+      "fahrtNr": "28059",
+      "name": "S5",
       "public": true,
-      "adminCode": "BVB",
-      "productName": "Bus",
-      "mode": "bus",
-      "product": "bus",
+      "adminCode": "DBS",
+      "productName": "S",
+      "mode": "train",
+      "product": "suburban",
       "operator": {
         "type": "operator",
-        "id": "berliner-verkehrsbetriebe",
-        "name": "Berliner Verkehrsbetriebe"
+        "id": "s-bahn-berlin-gmbh",
+        "name": "S-Bahn Berlin GmbH"
       },
-      "symbol": "N",
-      "nr": 50,
+      "symbol": "S",
+      "nr": 5,
       "metro": false,
       "express": false,
-      "night": true
+      "night": false,
+      "color": {
+        "fg": "#fff",
+        "bg": "#eb7405"
+      }
     },
     "remarks": [
       {
         "type": "hint",
         "code": "OPERATOR",
-        "text": "BVG (Einbecker Str./Rosenfelder Str. (Berlin) - S+U Lichtenberg (Berlin) [N50])"
+        "text": "DBS (S Nöldnerplatz (Berlin) - S+U Lichtenberg Bhf (Berlin))"
       },
       {
         "type": "hint",
         "code": "bf",
         "text": "barrier-free"
+      },
+      {
+        "type": "hint",
+        "code": "FB",
+        "text": "Bicycle conveyance"
       },
       {
         "id": "144719",
@@ -90,8 +99,8 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.501993,
-      "longitude": 13.50943
+      "latitude": 52.502999,
+      "longitude": 13.469158
     }
   }
 ]
