@@ -1,224 +1,6 @@
 [
   {
-    "tripId": "1|37353|2|86|9122021",
-    "stop": {
-      "type": "stop",
-      "id": "900000160004",
-      "name": "S+U Lichtenberg",
-      "location": {
-        "type": "location",
-        "id": "900160004",
-        "latitude": 52.510676,
-        "longitude": 13.498355
-      },
-      "products": {
-        "suburban": true,
-        "subway": true,
-        "tram": true,
-        "bus": true,
-        "ferry": false,
-        "express": true,
-        "regional": true
-      }
-    },
-    "when": "2021-12-09T09:51:00+01:00",
-    "plannedWhen": "2021-12-09T09:50:00+01:00",
-    "delay": 60,
-    "platform": "1",
-    "plannedPlatform": "1",
-    "direction": null,
-    "provenance": "S Westkreuz",
-    "line": {
-      "type": "line",
-      "id": "s5",
-      "fahrtNr": "28410",
-      "name": "S5",
-      "public": true,
-      "adminCode": "DBS",
-      "productName": "S",
-      "mode": "train",
-      "product": "suburban",
-      "operator": {
-        "type": "operator",
-        "id": "s-bahn-berlin-gmbh",
-        "name": "S-Bahn Berlin GmbH"
-      },
-      "symbol": "S",
-      "nr": 5,
-      "metro": false,
-      "express": false,
-      "night": false,
-      "color": {
-        "fg": "#fff",
-        "bg": "#eb7405"
-      }
-    },
-    "remarks": [
-      {
-        "type": "hint",
-        "code": "OPERATOR",
-        "text": "DBS (S Nöldnerplatz (Berlin) - S+U Lichtenberg Bhf (Berlin))"
-      },
-      {
-        "type": "hint",
-        "code": "bf",
-        "text": "barrier-free"
-      },
-      {
-        "type": "hint",
-        "code": "FB",
-        "text": "Bicycle conveyance"
-      },
-      {
-        "id": "144719",
-        "type": "warning",
-        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
-        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
-        "icon": {
-          "type": "HIM0",
-          "title": null
-        },
-        "priority": 100,
-        "products": {
-          "suburban": true,
-          "subway": true,
-          "tram": true,
-          "bus": true,
-          "ferry": true,
-          "express": true,
-          "regional": true
-        },
-        "company": "VBB",
-        "categories": [
-          0
-        ],
-        "validFrom": "2021-11-24T00:00:00+01:00",
-        "validUntil": "2022-12-31T00:00:00+01:00",
-        "modified": "2021-12-06T15:29:37+01:00"
-      }
-    ],
-    "currentTripPosition": {
-      "type": "location",
-      "latitude": 52.510676,
-      "longitude": 13.498355
-    }
-  },
-  {
-    "tripId": "1|872|0|86|9122021",
-    "stop": {
-      "type": "stop",
-      "id": "900000160004",
-      "name": "S+U Lichtenberg",
-      "location": {
-        "type": "location",
-        "id": "900160004",
-        "latitude": 52.510676,
-        "longitude": 13.498355
-      },
-      "products": {
-        "suburban": true,
-        "subway": true,
-        "tram": true,
-        "bus": true,
-        "ferry": false,
-        "express": true,
-        "regional": true
-      }
-    },
-    "when": "2021-12-09T09:51:00+01:00",
-    "plannedWhen": "2021-12-09T09:51:00+01:00",
-    "delay": 0,
-    "platform": "22",
-    "plannedPlatform": "22",
-    "direction": null,
-    "provenance": "Eberswalde, Hbf",
-    "line": {
-      "type": "line",
-      "id": "rb24",
-      "fahrtNr": "205",
-      "name": "RB24",
-      "public": true,
-      "adminCode": "800154",
-      "productName": "RB",
-      "mode": "train",
-      "product": "regional",
-      "operator": {
-        "type": "operator",
-        "id": "db-regio-ag",
-        "name": "DB Regio AG"
-      },
-      "symbol": "RB",
-      "nr": 24,
-      "metro": false,
-      "express": false,
-      "night": false,
-      "color": {
-        "fg": "#fff",
-        "bg": "#6d61f2"
-      }
-    },
-    "remarks": [
-      {
-        "type": "hint",
-        "code": "OPERATOR",
-        "text": "DB Regio (S Hohenschönhausen Bhf (Berlin) - S+U Lichtenberg Bhf (Berlin))"
-      },
-      {
-        "type": "hint",
-        "code": "FB",
-        "text": "Bicycle conveyance"
-      },
-      {
-        "type": "hint",
-        "code": "PF",
-        "text": "Please wear an FFP2 mask. You are legally required to do so"
-      },
-      {
-        "type": "hint",
-        "code": "3G",
-        "text": "Nationwide \"3G\" rule applies on trains: valid proof must be presented"
-      },
-      {
-        "type": "hint",
-        "code": "lg",
-        "text": "vehicle-mounted accessaid"
-      },
-      {
-        "id": "144719",
-        "type": "warning",
-        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
-        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
-        "icon": {
-          "type": "HIM0",
-          "title": null
-        },
-        "priority": 100,
-        "products": {
-          "suburban": true,
-          "subway": true,
-          "tram": true,
-          "bus": true,
-          "ferry": true,
-          "express": true,
-          "regional": true
-        },
-        "company": "VBB",
-        "categories": [
-          0
-        ],
-        "validFrom": "2021-11-24T00:00:00+01:00",
-        "validUntil": "2022-12-31T00:00:00+01:00",
-        "modified": "2021-12-06T15:29:37+01:00"
-      }
-    ],
-    "currentTripPosition": {
-      "type": "location",
-      "latitude": 52.510083,
-      "longitude": 13.496332
-    }
-  },
-  {
-    "tripId": "1|34465|7|86|9122021",
+    "tripId": "1|34466|1|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160701",
@@ -239,8 +21,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:51:00+01:00",
-    "plannedWhen": "2021-12-09T09:51:00+01:00",
+    "when": "2021-12-09T10:31:00+01:00",
+    "plannedWhen": "2021-12-09T10:31:00+01:00",
     "delay": 0,
     "platform": "1",
     "plannedPlatform": "1",
@@ -249,7 +31,7 @@
     "line": {
       "type": "line",
       "id": "u5",
-      "fahrtNr": "17789",
+      "fahrtNr": "17797",
       "name": "U5",
       "public": true,
       "adminCode": "BVU",
@@ -317,12 +99,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.511971,
-      "longitude": 13.492611
+      "latitude": 52.511287,
+      "longitude": 13.497879
     }
   },
   {
-    "tripId": "1|37704|9|86|9122021",
+    "tripId": "1|37704|11|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160004",
@@ -343,8 +125,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:51:00+01:00",
-    "plannedWhen": "2021-12-09T09:51:00+01:00",
+    "when": "2021-12-09T10:31:00+01:00",
+    "plannedWhen": "2021-12-09T10:31:00+01:00",
     "delay": 0,
     "platform": "2",
     "plannedPlatform": "2",
@@ -353,7 +135,7 @@
     "line": {
       "type": "line",
       "id": "s75",
-      "fahrtNr": "29503",
+      "fahrtNr": "29501",
       "name": "S75",
       "public": true,
       "adminCode": "DBS",
@@ -421,12 +203,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.506946,
-      "longitude": 13.491505
+      "latitude": 52.510487,
+      "longitude": 13.498004
     }
   },
   {
-    "tripId": "1|19051|1|86|9122021",
+    "tripId": "1|6910|6|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160702",
@@ -447,9 +229,130 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:52:00+01:00",
-    "plannedWhen": "2021-12-09T09:52:00+01:00",
-    "delay": 0,
+    "when": "2021-12-09T10:32:00+01:00",
+    "plannedWhen": "2021-12-09T10:27:00+01:00",
+    "delay": 300,
+    "platform": null,
+    "plannedPlatform": null,
+    "direction": null,
+    "provenance": "Waldesruh, Mahlsdorfer Allee",
+    "line": {
+      "type": "line",
+      "id": "108",
+      "fahrtNr": "15301",
+      "name": "108",
+      "public": true,
+      "adminCode": "BVB",
+      "productName": "Bus",
+      "mode": "bus",
+      "product": "bus",
+      "operator": {
+        "type": "operator",
+        "id": "berliner-verkehrsbetriebe",
+        "name": "Berliner Verkehrsbetriebe"
+      },
+      "symbol": null,
+      "nr": 108,
+      "metro": false,
+      "express": false,
+      "night": false
+    },
+    "remarks": [
+      {
+        "type": "hint",
+        "code": "OPERATOR",
+        "text": "BVG (Löwenberger Str. (Berlin) - S+U Lichtenberg (Berlin) [Bus])"
+      },
+      {
+        "type": "hint",
+        "code": "bf",
+        "text": "barrier-free"
+      },
+      {
+        "id": "51105",
+        "type": "warning",
+        "summary": "geänderte Haltestellenbedienung",
+        "text": "Bus 108: Verlegung der Haltestelle Löwenberger Straße um ca. 150 Meter vor den planmäßigen Standort.[br] (Robert-Uhrig-Str. (Berlin) - S+U Lichtenberg (Berlin) [Bus])",
+        "icon": {
+          "type": "HIM1",
+          "title": null
+        },
+        "priority": 100,
+        "products": {
+          "suburban": false,
+          "subway": false,
+          "tram": false,
+          "bus": true,
+          "ferry": false,
+          "express": false,
+          "regional": false
+        },
+        "categories": [
+          1
+        ],
+        "validFrom": "2021-12-08T07:00:00+01:00",
+        "validUntil": "2021-12-10T18:00:00+01:00",
+        "modified": "2021-12-01T11:19:03+01:00"
+      },
+      {
+        "id": "144719",
+        "type": "warning",
+        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+        "icon": {
+          "type": "HIM0",
+          "title": null
+        },
+        "priority": 100,
+        "products": {
+          "suburban": true,
+          "subway": true,
+          "tram": true,
+          "bus": true,
+          "ferry": true,
+          "express": true,
+          "regional": true
+        },
+        "company": "VBB",
+        "categories": [
+          0
+        ],
+        "validFrom": "2021-11-24T00:00:00+01:00",
+        "validUntil": "2022-12-31T00:00:00+01:00",
+        "modified": "2021-12-06T15:29:37+01:00"
+      }
+    ],
+    "currentTripPosition": {
+      "type": "location",
+      "latitude": 52.512132,
+      "longitude": 13.50356
+    }
+  },
+  {
+    "tripId": "1|19051|3|86|9122021",
+    "stop": {
+      "type": "stop",
+      "id": "900000160702",
+      "name": "S+U Lichtenberg [Bus]",
+      "location": {
+        "type": "location",
+        "id": "900160702",
+        "latitude": 52.510389,
+        "longitude": 13.49947
+      },
+      "products": {
+        "suburban": true,
+        "subway": true,
+        "tram": true,
+        "bus": true,
+        "ferry": false,
+        "express": true,
+        "regional": true
+      }
+    },
+    "when": "2021-12-09T10:33:00+01:00",
+    "plannedWhen": "2021-12-09T10:32:00+01:00",
+    "delay": 60,
     "platform": null,
     "plannedPlatform": null,
     "direction": null,
@@ -513,10 +416,119 @@
         "validUntil": "2022-12-31T00:00:00+01:00",
         "modified": "2021-12-06T15:29:37+01:00"
       }
-    ]
+    ],
+    "currentTripPosition": {
+      "type": "location",
+      "latitude": 52.50993,
+      "longitude": 13.502841
+    }
   },
   {
-    "tripId": "1|34511|1|86|9122021",
+    "tripId": "1|44353|1|86|9122021",
+    "stop": {
+      "type": "stop",
+      "id": "900000160004",
+      "name": "S+U Lichtenberg",
+      "location": {
+        "type": "location",
+        "id": "900160004",
+        "latitude": 52.510676,
+        "longitude": 13.498355
+      },
+      "products": {
+        "suburban": true,
+        "subway": true,
+        "tram": true,
+        "bus": true,
+        "ferry": false,
+        "express": true,
+        "regional": true
+      }
+    },
+    "when": "2021-12-09T10:33:00+01:00",
+    "plannedWhen": "2021-12-09T10:32:00+01:00",
+    "delay": 60,
+    "platform": "22",
+    "plannedPlatform": "22",
+    "direction": null,
+    "provenance": "Werneuchen, Bhf",
+    "line": {
+      "type": "line",
+      "id": "rb25",
+      "fahrtNr": "1321",
+      "name": "RB25",
+      "public": true,
+      "adminCode": "NEB",
+      "productName": "RB",
+      "mode": "train",
+      "product": "regional",
+      "operator": {
+        "type": "operator",
+        "id": "neb-betriebsgesellschaft-mbh",
+        "name": "NEB Betriebsgesellschaft mbH"
+      },
+      "symbol": "RB",
+      "nr": 25,
+      "metro": false,
+      "express": false,
+      "night": false,
+      "color": {
+        "fg": "#fff",
+        "bg": "#19a6ff"
+      }
+    },
+    "remarks": [
+      {
+        "type": "hint",
+        "code": "OPERATOR",
+        "text": "NEB (S Ahrensfelde Bhf (Berlin) - S+U Lichtenberg Bhf (Berlin))"
+      },
+      {
+        "type": "hint",
+        "code": "bf",
+        "text": "barrier-free"
+      },
+      {
+        "type": "hint",
+        "code": "FB",
+        "text": "Bicycle conveyance"
+      },
+      {
+        "id": "144719",
+        "type": "warning",
+        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+        "icon": {
+          "type": "HIM0",
+          "title": null
+        },
+        "priority": 100,
+        "products": {
+          "suburban": true,
+          "subway": true,
+          "tram": true,
+          "bus": true,
+          "ferry": true,
+          "express": true,
+          "regional": true
+        },
+        "company": "VBB",
+        "categories": [
+          0
+        ],
+        "validFrom": "2021-11-24T00:00:00+01:00",
+        "validUntil": "2022-12-31T00:00:00+01:00",
+        "modified": "2021-12-06T15:29:37+01:00"
+      }
+    ],
+    "currentTripPosition": {
+      "type": "location",
+      "latitude": 52.514542,
+      "longitude": 13.51378
+    }
+  },
+  {
+    "tripId": "1|34511|5|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160701",
@@ -537,8 +549,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:53:00+01:00",
-    "plannedWhen": "2021-12-09T09:53:00+01:00",
+    "when": "2021-12-09T10:33:00+01:00",
+    "plannedWhen": "2021-12-09T10:33:00+01:00",
     "delay": 0,
     "platform": "2",
     "plannedPlatform": "2",
@@ -547,7 +559,7 @@
     "line": {
       "type": "line",
       "id": "u5",
-      "fahrtNr": "17403",
+      "fahrtNr": "17411",
       "name": "U5",
       "public": true,
       "adminCode": "BVU",
@@ -615,12 +627,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.512456,
-      "longitude": 13.487047
+      "latitude": 52.512986,
+      "longitude": 13.481959
     }
   },
   {
-    "tripId": "1|37098|2|86|9122021",
+    "tripId": "1|37718|4|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160004",
@@ -641,112 +653,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:53:00+01:00",
-    "plannedWhen": "2021-12-09T09:53:00+01:00",
-    "delay": 0,
-    "platform": "2",
-    "plannedPlatform": "2",
-    "direction": null,
-    "provenance": "S Strausberg Nord",
-    "line": {
-      "type": "line",
-      "id": "s5",
-      "fahrtNr": "28106",
-      "name": "S5",
-      "public": true,
-      "adminCode": "DBS",
-      "productName": "S",
-      "mode": "train",
-      "product": "suburban",
-      "operator": {
-        "type": "operator",
-        "id": "s-bahn-berlin-gmbh",
-        "name": "S-Bahn Berlin GmbH"
-      },
-      "symbol": "S",
-      "nr": 5,
-      "metro": false,
-      "express": false,
-      "night": false,
-      "color": {
-        "fg": "#fff",
-        "bg": "#eb7405"
-      }
-    },
-    "remarks": [
-      {
-        "type": "hint",
-        "code": "OPERATOR",
-        "text": "DBS (S Friedrichsfelde Ost (Berlin) - S+U Lichtenberg Bhf (Berlin))"
-      },
-      {
-        "type": "hint",
-        "code": "bf",
-        "text": "barrier-free"
-      },
-      {
-        "type": "hint",
-        "code": "FB",
-        "text": "Bicycle conveyance"
-      },
-      {
-        "id": "144719",
-        "type": "warning",
-        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
-        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
-        "icon": {
-          "type": "HIM0",
-          "title": null
-        },
-        "priority": 100,
-        "products": {
-          "suburban": true,
-          "subway": true,
-          "tram": true,
-          "bus": true,
-          "ferry": true,
-          "express": true,
-          "regional": true
-        },
-        "company": "VBB",
-        "categories": [
-          0
-        ],
-        "validFrom": "2021-11-24T00:00:00+01:00",
-        "validUntil": "2022-12-31T00:00:00+01:00",
-        "modified": "2021-12-06T15:29:37+01:00"
-      }
-    ],
-    "currentTripPosition": {
-      "type": "location",
-      "latitude": 52.513202,
-      "longitude": 13.509286
-    }
-  },
-  {
-    "tripId": "1|37718|2|86|9122021",
-    "stop": {
-      "type": "stop",
-      "id": "900000160004",
-      "name": "S+U Lichtenberg",
-      "location": {
-        "type": "location",
-        "id": "900160004",
-        "latitude": 52.510676,
-        "longitude": 13.498355
-      },
-      "products": {
-        "suburban": true,
-        "subway": true,
-        "tram": true,
-        "bus": true,
-        "ferry": false,
-        "express": true,
-        "regional": true
-      }
-    },
-    "when": "2021-12-09T09:53:00+01:00",
-    "plannedWhen": "2021-12-09T09:53:00+01:00",
+    "when": "2021-12-09T10:33:00+01:00",
+    "plannedWhen": "2021-12-09T10:33:00+01:00",
     "delay": 0,
     "platform": "1",
     "plannedPlatform": "1",
@@ -755,7 +663,7 @@
     "line": {
       "type": "line",
       "id": "s75",
-      "fahrtNr": "29411",
+      "fahrtNr": "29409",
       "name": "S75",
       "public": true,
       "adminCode": "DBS",
@@ -823,12 +731,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.506937,
-      "longitude": 13.491496
+      "latitude": 52.503629,
+      "longitude": 13.484673
     }
   },
   {
-    "tripId": "1|17482|9|86|9122021",
+    "tripId": "1|17482|11|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160020",
@@ -849,9 +757,9 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:56:00+01:00",
-    "plannedWhen": "2021-12-09T09:53:00+01:00",
-    "delay": 180,
+    "when": "2021-12-09T10:34:00+01:00",
+    "plannedWhen": "2021-12-09T10:33:00+01:00",
+    "delay": 60,
     "platform": null,
     "plannedPlatform": null,
     "direction": null,
@@ -918,12 +826,116 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.51945,
-      "longitude": 13.499308
+      "latitude": 52.517823,
+      "longitude": 13.499119
     }
   },
   {
-    "tripId": "1|17514|11|86|9122021",
+    "tripId": "1|37098|3|86|9122021",
+    "stop": {
+      "type": "stop",
+      "id": "900000160004",
+      "name": "S+U Lichtenberg",
+      "location": {
+        "type": "location",
+        "id": "900160004",
+        "latitude": 52.510676,
+        "longitude": 13.498355
+      },
+      "products": {
+        "suburban": true,
+        "subway": true,
+        "tram": true,
+        "bus": true,
+        "ferry": false,
+        "express": true,
+        "regional": true
+      }
+    },
+    "when": "2021-12-09T10:34:00+01:00",
+    "plannedWhen": "2021-12-09T10:33:00+01:00",
+    "delay": 60,
+    "platform": "2",
+    "plannedPlatform": "2",
+    "direction": null,
+    "provenance": "S Strausberg Nord",
+    "line": {
+      "type": "line",
+      "id": "s5",
+      "fahrtNr": "28104",
+      "name": "S5",
+      "public": true,
+      "adminCode": "DBS",
+      "productName": "S",
+      "mode": "train",
+      "product": "suburban",
+      "operator": {
+        "type": "operator",
+        "id": "s-bahn-berlin-gmbh",
+        "name": "S-Bahn Berlin GmbH"
+      },
+      "symbol": "S",
+      "nr": 5,
+      "metro": false,
+      "express": false,
+      "night": false,
+      "color": {
+        "fg": "#fff",
+        "bg": "#eb7405"
+      }
+    },
+    "remarks": [
+      {
+        "type": "hint",
+        "code": "OPERATOR",
+        "text": "DBS (S Friedrichsfelde Ost (Berlin) - S+U Lichtenberg Bhf (Berlin))"
+      },
+      {
+        "type": "hint",
+        "code": "bf",
+        "text": "barrier-free"
+      },
+      {
+        "type": "hint",
+        "code": "FB",
+        "text": "Bicycle conveyance"
+      },
+      {
+        "id": "144719",
+        "type": "warning",
+        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
+        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
+        "icon": {
+          "type": "HIM0",
+          "title": null
+        },
+        "priority": 100,
+        "products": {
+          "suburban": true,
+          "subway": true,
+          "tram": true,
+          "bus": true,
+          "ferry": true,
+          "express": true,
+          "regional": true
+        },
+        "company": "VBB",
+        "categories": [
+          0
+        ],
+        "validFrom": "2021-11-24T00:00:00+01:00",
+        "validUntil": "2022-12-31T00:00:00+01:00",
+        "modified": "2021-12-06T15:29:37+01:00"
+      }
+    ],
+    "currentTripPosition": {
+      "type": "location",
+      "latitude": 52.513849,
+      "longitude": 13.529026
+    }
+  },
+  {
+    "tripId": "1|17514|13|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160020",
@@ -944,8 +956,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:56:00+01:00",
-    "plannedWhen": "2021-12-09T09:56:00+01:00",
+    "when": "2021-12-09T10:36:00+01:00",
+    "plannedWhen": "2021-12-09T10:36:00+01:00",
     "delay": 0,
     "platform": null,
     "plannedPlatform": null,
@@ -1013,7 +1025,7 @@
     ]
   },
   {
-    "tripId": "1|34440|8|86|9122021",
+    "tripId": "1|34440|12|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160701",
@@ -1034,8 +1046,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:56:00+01:00",
-    "plannedWhen": "2021-12-09T09:56:00+01:00",
+    "when": "2021-12-09T10:36:00+01:00",
+    "plannedWhen": "2021-12-09T10:36:00+01:00",
     "delay": 0,
     "platform": "1",
     "plannedPlatform": "1",
@@ -1044,7 +1056,7 @@
     "line": {
       "type": "line",
       "id": "u5",
-      "fahrtNr": "17788",
+      "fahrtNr": "17796",
       "name": "U5",
       "public": true,
       "adminCode": "BVU",
@@ -1112,12 +1124,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.497696,
-      "longitude": 13.523066
+      "latitude": 52.495988,
+      "longitude": 13.531642
     }
   },
   {
-    "tripId": "1|37500|5|86|9122021",
+    "tripId": "1|37500|9|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160004",
@@ -1138,8 +1150,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:56:00+01:00",
-    "plannedWhen": "2021-12-09T09:56:00+01:00",
+    "when": "2021-12-09T10:36:00+01:00",
+    "plannedWhen": "2021-12-09T10:36:00+01:00",
     "delay": 0,
     "platform": "2",
     "plannedPlatform": "2",
@@ -1148,7 +1160,7 @@
     "line": {
       "type": "line",
       "id": "s7",
-      "fahrtNr": "29246",
+      "fahrtNr": "29244",
       "name": "S7",
       "public": true,
       "adminCode": "DBS",
@@ -1216,121 +1228,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.515512,
-      "longitude": 13.536685
+      "latitude": 52.525032,
+      "longitude": 13.537251
     }
   },
   {
-    "tripId": "1|44309|1|86|9122021",
-    "stop": {
-      "type": "stop",
-      "id": "900000160004",
-      "name": "S+U Lichtenberg",
-      "location": {
-        "type": "location",
-        "id": "900160004",
-        "latitude": 52.510676,
-        "longitude": 13.498355
-      },
-      "products": {
-        "suburban": true,
-        "subway": true,
-        "tram": true,
-        "bus": true,
-        "ferry": false,
-        "express": true,
-        "regional": true
-      }
-    },
-    "when": "2021-12-09T09:57:00+01:00",
-    "plannedWhen": "2021-12-09T09:57:00+01:00",
-    "delay": null,
-    "platform": "17",
-    "plannedPlatform": "17",
-    "direction": null,
-    "provenance": "Templin, Stadt",
-    "line": {
-      "type": "line",
-      "id": "rb12",
-      "fahrtNr": "1363",
-      "name": "RB12",
-      "public": true,
-      "adminCode": "NEB",
-      "productName": "RB",
-      "mode": "train",
-      "product": "regional",
-      "operator": {
-        "type": "operator",
-        "id": "neb-betriebsgesellschaft-mbh",
-        "name": "NEB Betriebsgesellschaft mbH"
-      },
-      "symbol": "RB",
-      "nr": 12,
-      "metro": false,
-      "express": false,
-      "night": false,
-      "color": {
-        "fg": "#fff",
-        "bg": "#9900ff"
-      }
-    },
-    "remarks": [
-      {
-        "type": "hint",
-        "code": "OPERATOR",
-        "text": "NEB (S Hohenschönhausen Bhf (Berlin) - S+U Lichtenberg Bhf (Berlin))"
-      },
-      {
-        "type": "hint",
-        "code": "bf",
-        "text": "barrier-free"
-      },
-      {
-        "type": "hint",
-        "code": "FB",
-        "text": "Bicycle conveyance"
-      },
-      {
-        "id": "144719",
-        "type": "warning",
-        "summary": "It is mandatory to be either vaccinated, recovered or tested when using public transport (3G).",
-        "text": "We recommend an FFP2 mask.\n<a href=\"https://www.vbb.de/corona\" target=\"_blank\" rel=\"noopener\">Further information (in German language)</a>",
-        "icon": {
-          "type": "HIM0",
-          "title": null
-        },
-        "priority": 100,
-        "products": {
-          "suburban": true,
-          "subway": true,
-          "tram": true,
-          "bus": true,
-          "ferry": true,
-          "express": true,
-          "regional": true
-        },
-        "company": "VBB",
-        "categories": [
-          0
-        ],
-        "validFrom": "2021-11-24T00:00:00+01:00",
-        "validUntil": "2022-12-31T00:00:00+01:00",
-        "modified": "2021-12-06T15:29:37+01:00"
-      },
-      {
-        "type": "status",
-        "code": "text.realtime.journey.partially.cancelled.between",
-        "text": "Cancellation of intermediate stops"
-      }
-    ],
-    "currentTripPosition": {
-      "type": "location",
-      "latitude": 52.539235,
-      "longitude": 13.531804
-    }
-  },
-  {
-    "tripId": "1|16222|4|86|9122021",
+    "tripId": "1|16222|8|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160702",
@@ -1351,8 +1254,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:58:00+01:00",
-    "plannedWhen": "2021-12-09T09:57:00+01:00",
+    "when": "2021-12-09T10:38:00+01:00",
+    "plannedWhen": "2021-12-09T10:37:00+01:00",
     "delay": 60,
     "platform": null,
     "plannedPlatform": null,
@@ -1420,12 +1323,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.502262,
-      "longitude": 13.487775
+      "latitude": 52.501462,
+      "longitude": 13.485366
     }
   },
   {
-    "tripId": "1|34529|11|86|9122021",
+    "tripId": "1|34529|15|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160701",
@@ -1446,8 +1349,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:58:00+01:00",
-    "plannedWhen": "2021-12-09T09:58:00+01:00",
+    "when": "2021-12-09T10:38:00+01:00",
+    "plannedWhen": "2021-12-09T10:38:00+01:00",
     "delay": 0,
     "platform": "2",
     "plannedPlatform": "2",
@@ -1456,7 +1359,7 @@
     "line": {
       "type": "line",
       "id": "u5",
-      "fahrtNr": "17404",
+      "fahrtNr": "17412",
       "name": "U5",
       "public": true,
       "adminCode": "BVU",
@@ -1529,7 +1432,7 @@
     }
   },
   {
-    "tripId": "1|37539|0|86|9122021",
+    "tripId": "1|37539|4|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160004",
@@ -1550,8 +1453,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T09:58:00+01:00",
-    "plannedWhen": "2021-12-09T09:58:00+01:00",
+    "when": "2021-12-09T10:38:00+01:00",
+    "plannedWhen": "2021-12-09T10:38:00+01:00",
     "delay": 0,
     "platform": "1",
     "plannedPlatform": "1",
@@ -1560,7 +1463,7 @@
     "line": {
       "type": "line",
       "id": "s7",
-      "fahrtNr": "28796",
+      "fahrtNr": "28794",
       "name": "S7",
       "public": true,
       "adminCode": "DBS",
@@ -1628,12 +1531,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.505984,
-      "longitude": 13.451638
+      "latitude": 52.507224,
+      "longitude": 13.445606
     }
   },
   {
-    "tripId": "1|16273|6|86|9122021",
+    "tripId": "1|16273|10|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160702",
@@ -1654,9 +1557,9 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T10:00:00+01:00",
-    "plannedWhen": "2021-12-09T10:00:00+01:00",
-    "delay": 0,
+    "when": "2021-12-09T10:39:00+01:00",
+    "plannedWhen": "2021-12-09T10:40:00+01:00",
+    "delay": -60,
     "platform": null,
     "plannedPlatform": null,
     "direction": null,
@@ -1728,7 +1631,7 @@
     }
   },
   {
-    "tripId": "1|30370|3|86|9122021",
+    "tripId": "1|30370|5|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160020",
@@ -1749,8 +1652,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T10:00:00+01:00",
-    "plannedWhen": "2021-12-09T10:00:00+01:00",
+    "when": "2021-12-09T10:40:00+01:00",
+    "plannedWhen": "2021-12-09T10:40:00+01:00",
     "delay": 0,
     "platform": null,
     "plannedPlatform": null,
@@ -1827,7 +1730,7 @@
     ]
   },
   {
-    "tripId": "1|37161|2|86|9122021",
+    "tripId": "1|37162|1|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160004",
@@ -1848,8 +1751,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T10:00:00+01:00",
-    "plannedWhen": "2021-12-09T10:00:00+01:00",
+    "when": "2021-12-09T10:40:00+01:00",
+    "plannedWhen": "2021-12-09T10:40:00+01:00",
     "delay": 0,
     "platform": "1",
     "plannedPlatform": "1",
@@ -1858,7 +1761,7 @@
     "line": {
       "type": "line",
       "id": "s5",
-      "fahrtNr": "28012",
+      "fahrtNr": "28011",
       "name": "S5",
       "public": true,
       "adminCode": "DBS",
@@ -1931,7 +1834,7 @@
     }
   },
   {
-    "tripId": "1|34465|8|86|9122021",
+    "tripId": "1|34466|2|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160701",
@@ -1952,8 +1855,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T10:01:00+01:00",
-    "plannedWhen": "2021-12-09T10:01:00+01:00",
+    "when": "2021-12-09T10:41:00+01:00",
+    "plannedWhen": "2021-12-09T10:41:00+01:00",
     "delay": 0,
     "platform": "1",
     "plannedPlatform": "1",
@@ -1962,7 +1865,7 @@
     "line": {
       "type": "line",
       "id": "u5",
-      "fahrtNr": "17791",
+      "fahrtNr": "17799",
       "name": "U5",
       "public": true,
       "adminCode": "BVU",
@@ -2030,12 +1933,12 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.509804,
-      "longitude": 13.566898
+      "latitude": 52.512645,
+      "longitude": 13.575114
     }
   },
   {
-    "tripId": "1|37749|3|86|9122021",
+    "tripId": "1|37749|5|86|9122021",
     "stop": {
       "type": "stop",
       "id": "900000160004",
@@ -2056,8 +1959,8 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T10:01:00+01:00",
-    "plannedWhen": "2021-12-09T10:01:00+01:00",
+    "when": "2021-12-09T10:41:00+01:00",
+    "plannedWhen": "2021-12-09T10:41:00+01:00",
     "delay": 0,
     "platform": "2",
     "plannedPlatform": "2",
@@ -2066,7 +1969,7 @@
     "line": {
       "type": "line",
       "id": "s75",
-      "fahrtNr": "29611",
+      "fahrtNr": "29609",
       "name": "S75",
       "public": true,
       "adminCode": "DBS",
@@ -2134,8 +2037,8 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.535936,
-      "longitude": 13.533458
+      "latitude": 52.545411,
+      "longitude": 13.530366
     }
   }
 ]
