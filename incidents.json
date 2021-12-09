@@ -1,15 +1,15 @@
 [
   {
-    "tripId": "1|27296|3|86|8122021",
+    "tripId": "1|26791|0|86|9122021",
     "stop": {
       "type": "stop",
-      "id": "900000160702",
-      "name": "S+U Lichtenberg [Bus]",
+      "id": "900000160704",
+      "name": "S+U Lichtenberg [N50]",
       "location": {
         "type": "location",
-        "id": "900160702",
-        "latitude": 52.510389,
-        "longitude": 13.49947
+        "id": "900160704",
+        "latitude": 52.510496,
+        "longitude": 13.501061
       },
       "products": {
         "suburban": true,
@@ -21,18 +21,18 @@
         "regional": true
       }
     },
-    "when": "2021-12-09T02:45:00+01:00",
-    "plannedWhen": "2021-12-09T02:40:00+01:00",
-    "delay": 300,
+    "when": "2021-12-09T03:24:00+01:00",
+    "plannedWhen": "2021-12-09T03:24:00+01:00",
+    "delay": 0,
     "platform": null,
     "plannedPlatform": null,
     "direction": null,
-    "provenance": "U Hermannplatz [Bus Westseite]",
+    "provenance": "U Tierpark",
     "line": {
       "type": "line",
-      "id": "n94",
-      "fahrtNr": "53210",
-      "name": "N94",
+      "id": "n50",
+      "fahrtNr": "52398",
+      "name": "N50",
       "public": true,
       "adminCode": "BVB",
       "productName": "Bus",
@@ -44,7 +44,7 @@
         "name": "Berliner Verkehrsbetriebe"
       },
       "symbol": "N",
-      "nr": 94,
+      "nr": 50,
       "metro": false,
       "express": false,
       "night": true
@@ -53,7 +53,7 @@
       {
         "type": "hint",
         "code": "OPERATOR",
-        "text": "BVG (Margaretenstr. (Berlin) [Ri. Lichtenberger Br.] - S+U Lichtenberg (Berlin) [Bus])"
+        "text": "BVG (Einbecker Str./Rosenfelder Str. (Berlin) - S+U Lichtenberg (Berlin) [N50])"
       },
       {
         "type": "hint",
@@ -90,8 +90,8 @@
     ],
     "currentTripPosition": {
       "type": "location",
-      "latitude": 52.490343,
-      "longitude": 13.455881
+      "latitude": 52.501993,
+      "longitude": 13.50943
     }
   }
 ]
