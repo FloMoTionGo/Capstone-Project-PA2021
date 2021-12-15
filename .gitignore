@@ -115,5 +115,6 @@ dmypy.json
 .pyre/
 
 #terraform credentials
-learn-terraform-gcp/.terraform-test-334408-1f750f0a10fa.json
 learn-terraform-gcp/
+learn-terraform-gcp/.terraform-test-334408-1f750f0a10fa.json
+learn-terraform-gcp/terraform.tfvars
